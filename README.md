@@ -9,17 +9,25 @@
 ## Whats Added New?
 ---------------------------------------------------
 +Blue UI/GUI
+
 +FASTER SENDING TO WEBHOOK
+
 +Hover Color Got Darker
+
 +Builder Got Red ( The Text )
+
 +New Features!
 
 ## Whats Gone? 
 --------------------------------------------------------
 -OLD GUI/UI
+
 -LONGER SENDING TO WEBHOOK
+
 -Hover isnt that your eyes will burn
+
 -Builder isnt Gray anymore ( The Text )
+
 ## Features
 
 - Discord Info
